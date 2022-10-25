@@ -1,0 +1,11 @@
+Model Information:
+* title:	Land Rover Defender
+* source:	https://sketchfab.com/3d-models/land-rover-defender-31f975f5fca24b48aa0824fa87ec5b54
+* author:	Aram Firozy (https://sketchfab.com/www.majed.mohamadi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Land Rover Defender" (https://sketchfab.com/3d-models/land-rover-defender-31f975f5fca24b48aa0824fa87ec5b54) by Aram Firozy (https://sketchfab.com/www.majed.mohamadi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
